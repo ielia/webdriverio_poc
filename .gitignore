@@ -69,7 +69,7 @@ packages/**/cjs/
 !packages/**/cjs/package.json
 /*.js
 /*.mjs
-/*.ts
+#/*.ts
 devtools.d.ts
 !.eslintrc.js
 !vitest.config.ts
